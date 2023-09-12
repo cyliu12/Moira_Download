@@ -4,6 +4,10 @@
 2023/9/12
 Moira.msi
   原作者發布的最後一版，Moira 1.50 Final。要搭配x32的JRE使用。
+source.zip
+  原作者發布的source，原本的網站連結已失效，這是我留下來的備份。
+How to build - Moira - 七政四餘星盤 天星擇日 占星盤 - Moira.pdf
+  原作者寫的build指引，原本的網站連結已失效，這是列印下來的備份。
 Moira.6410.0001.zip ~ z04 
   我重新Build的x64版本，需搭配x64的JRE 1.8以上使用。請下戴zip~z04。
   這個壓縮檔包含了較多的ephe星曆(到公元前都有)，所以比較肥大。
